@@ -5,4 +5,4 @@
 #### Note: Only The Tkinter Library was used to put this together.
 <br>
 
-*Please, give credit to me when sharing this file by giving the name of the repo and me. I'm not using a license for this file, but still you shall credit me or I get hurt* 😞
+*Please, give credit to me when sharing this file by giving the name of the repo. I'm not using a license for this file, but still you shall credit me or I get hurt* 😞
