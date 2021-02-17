@@ -2,7 +2,5 @@
 ### You can enter you weight in kilograms and height in inches. Then you will get your result and you can match it with the provided index.
 <br>
 
-#### Note: Only The Tkinter Library was used to put this together when I just started out with python GUIs
-<br>
-
-*Please, give credit to me when sharing this file by giving the name of the repo. I'm not using a license for these files, but still you shall credit me or I get hurt* 😞
+### Dependencies
+  - Tkinter
